@@ -20,8 +20,13 @@ Experiments with [Inform 7](https://ganelson.github.io/inform-website/) and some
 
 - Inform 7 website. https://ganelson.github.io/inform-website/
 - Inform 7 source code. https://github.com/ganelson/inform/
-- Writing with Inform. https://ganelson.github.io/inform-website/book/WI_1_1.html
+- Writing with Inform.
+    - https://ganelson.github.io/inform-website/book/WI_1_1.html
+    - https://inform-7-handbook.readthedocs.io/
 - The Inform Recipe Book. https://ganelson.github.io/inform-website/book/RB_1_1.html
+- Ron Newcomb. 2011-08-15. Inform 7 Programmer's Manual.
+    - pdf: http://www.plover.net/~pscion/Inform%207%20for%20Programmers.pdf
+    - web: https://zedlopez.github.io/i7doc/i7prog/
 - The Friends of Inform 7 extensions (for v10.1). https://github.com/i7/extensions
 - Keyword Interface by Aaron Reed. https://github.com/i7/extensions/blob/10.1/Aaron%20Reed/Keyword%20Interface-v9.i7x
 
