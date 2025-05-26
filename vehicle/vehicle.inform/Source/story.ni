@@ -34,5 +34,8 @@ After going to the Central Library:
 	say "You love the view of that massive central staircase as you enter [the Central Library].";
 	continue the action.
 
-[Expects you can enter and exit the van. You *cannot* enter the library with the van.]
+[ Expects you can 'enter'/'get in' and 'exit'/'get out of' the van.
+  Expects the van goes with you when you go to another room while in the van.
+  Expects custom check rule will stop you from entering the library in the van.
+]
 Test happy-path with "get in van / e / s / w / w / get out of van / w / e".
