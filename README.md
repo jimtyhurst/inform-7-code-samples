@@ -13,7 +13,7 @@ Experiments with [Inform 7](https://ganelson.github.io/inform-website/) and some
 
 ## Use cases
 
-- [vehicle](./vehicle/)
+- [vehicle](./vehicle/vehicle.inform/Source/story.ni)
 
 
 ## References
